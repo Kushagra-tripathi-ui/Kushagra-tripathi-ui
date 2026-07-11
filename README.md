@@ -1,7 +1,8 @@
 <div align="center">
 
 <img src="55a3148a17ba9402bfc413acb437fd42.jpg" width="100%" />
-
+<h1 align="center">Kushagra Tripathi</h1>
+<p align="center">Backend & Distributed Systems Engineer</p>
 </div>
 
 <div align="center">
