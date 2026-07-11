@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=200&section=header&text=Kushagra+Tripathi&fontSize=48&fontColor=E8F6F3&fontAlignY=38&desc=Backend+%26+Distributed+Systems+Engineer&descAlignY=58&descSize=18&descColor=8FE3D0" width="100%" />
+<img src="55a3148a17ba9402bfc413acb437fd42.jpg" width="100%" />
 
 </div>
 
