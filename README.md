@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=200&section=header&text=Kushagra%20Tripathi&fontSize=48&fontColor=E8F6F3&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Distributed%20Systems%20Engineer&descAlignY=58&descSize=18&descColor=8FE3D0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=200&section=header&text=Kushagra+Tripathi&fontSize=48&fontColor=E8F6F3&fontAlignY=38&desc=Backend+%26+Distributed+Systems+Engineer&descAlignY=58&descSize=18&descColor=8FE3D0" width="100%" />
 
 </div>
 
@@ -31,6 +31,8 @@ building:    a distributed task scheduler that actually schedules things on time
 
 ## `tech-stack --verbose`
 
+<div align="center">
+
 **Core**
 
 <img src="https://skillicons.dev/icons?i=java,spring,python,c&theme=dark" />
@@ -46,6 +48,8 @@ building:    a distributed task scheduler that actually schedules things on time
 **Testing**
 
 <img src="https://skillicons.dev/icons?i=junit&theme=dark" /> &nbsp; `JUnit` `Mockito` `Integration Testing`
+
+</div>
 
 ---
 
@@ -86,7 +90,7 @@ building:    a distributed task scheduler that actually schedules things on time
 
 <div align="center">
 
-*"Works on my machine" is not a deployment strategy — hence the Dockerfile.*
+*"The master has failed more times than the beginner has even tried.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,100:0f2027&height=100&section=footer" />
 
